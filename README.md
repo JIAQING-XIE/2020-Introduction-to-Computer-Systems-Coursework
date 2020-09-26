@@ -1,2 +1,2 @@
-# 2020-Introduction-to-Computer-Systems-Coursework
+# Processor Design by MIPS and C
 University of Edinburgh
